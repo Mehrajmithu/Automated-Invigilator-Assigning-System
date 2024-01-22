@@ -40,7 +40,12 @@ The agile methodology allowed for iterative development, fostering flexibility a
 - Construction/ iteration
 - Testing/ Quality assurance
 - Deployment
-- Feedback 
+- Feedback
+
+# Requirements Gathering:
+- Collaborate with stakeholders including administrators, supervisors, and invigilators to identify key requirements for the automated invigilator assigning system.
+- Prioritize features based on user needs, scalability, and system performance.
+  
 
 
 
