@@ -50,7 +50,11 @@ The agile methodology allowed for iterative development, fostering flexibility a
 - Utilize Agile methodologies like User Stories and Feature Driven Development to translate requirements into actionable design elements.
 - Create a dynamic and user-friendly interface for administrators, clear task assignment workflows, and a robust database structure to store invigilator profiles and availability.
   
-
+# Construction/Iteration:
+- Adopt Agile Sprints to break down the development process into manageable iterations.
+- Implement core functionalities such as automated invigilator matching algorithms, dynamic scheduling, and a user-friendly dashboard.
+- Iteratively enhance the system based on continuous feedback and evolving requirements.
+  
 
 
 
