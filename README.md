@@ -13,3 +13,5 @@ The Context diagram of Automated Invigilator Assignment System will give the mai
 
 ![Screenshot 2024-01-22 215808](https://github.com/Mehrajmithu/Automated-Invigilator-Assigning-System/assets/67754468/98caccbb-34c9-4e51-985e-a8d9360633c3)
 
+# Utilize Agile SDLC Model 
+
