@@ -11,4 +11,5 @@ The Automated Invigilator Assignment System is an intelligent platform designed 
 
 The Context diagram of Automated Invigilator Assignment System will give the main idea of the System Working.
 
+![Screenshot 2024-01-22 215808](https://github.com/Mehrajmithu/Automated-Invigilator-Assigning-System/assets/67754468/98caccbb-34c9-4e51-985e-a8d9360633c3)
 
