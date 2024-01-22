@@ -45,6 +45,10 @@ The agile methodology allowed for iterative development, fostering flexibility a
 # Requirements Gathering:
 - Collaborate with stakeholders including administrators, supervisors, and invigilators to identify key requirements for the automated invigilator assigning system.
 - Prioritize features based on user needs, scalability, and system performance.
+
+# Design the Requirements:
+- Utilize Agile methodologies like User Stories and Feature Driven Development to translate requirements into actionable design elements.
+- Create a dynamic and user-friendly interface for administrators, clear task assignment workflows, and a robust database structure to store invigilator profiles and availability.
   
 
 
