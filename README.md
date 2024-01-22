@@ -54,7 +54,23 @@ The agile methodology allowed for iterative development, fostering flexibility a
 - Adopt Agile Sprints to break down the development process into manageable iterations.
 - Implement core functionalities such as automated invigilator matching algorithms, dynamic scheduling, and a user-friendly dashboard.
 - Iteratively enhance the system based on continuous feedback and evolving requirements.
+
+# Testing/Quality Assurance:
+- Implement a comprehensive testing strategy for the Automated Invigilator Assigning System.
+- Conduct unit testing, integration testing, and user acceptance testing (UAT) during each sprint.
+- Address and resolve any issues identified during testing promptly.
+# Deployment:
+
+- Utilize continuous integration and deployment (CI/CD) practices to ensure a smooth and efficient deployment process.
+- Roll out the system incrementally, providing administrators and users with access to new features as they are developed and tested.
+
+# Feedback:
+
+- Encourage users, including administrators and invigilators, to provide continuous feedback during and after the deployment.
+- Implement feedback loops within Agile Sprints to address user concerns and make necessary adjustments.
+- Leverage feedback to inform future iterations and improvements.
   
+    
 
 
 
