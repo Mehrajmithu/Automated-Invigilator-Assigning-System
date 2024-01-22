@@ -69,6 +69,10 @@ The agile methodology allowed for iterative development, fostering flexibility a
 - Encourage users, including administrators and invigilators, to provide continuous feedback during and after the deployment.
 - Implement feedback loops within Agile Sprints to address user concerns and make necessary adjustments.
 - Leverage feedback to inform future iterations and improvements.
+
+# Purpose: 
+
+The Automated Invigilator Assigning System using Agile methodologies aims to revolutionize the process of invigilator assignment for exams. By incorporating Agile principles, the system enhances adaptability, responsiveness, and collaboration throughout the development lifecycle. Its purpose is to provide an efficient, dynamic, and user-friendly platform that automates invigilator assignment, ensuring optimal exam supervision and responsiveness to changing requirements in real-time.
   
     
 
