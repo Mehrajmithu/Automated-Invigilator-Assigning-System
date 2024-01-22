@@ -27,6 +27,9 @@ Automated Invigilator Assignment System developed by agile model in 3 sprint
 
 4.Review to evaluate progress and incorporate feedback
 
+![Screenshot 2024-01-22 231346](https://github.com/ujjalroy1/Automated-Exam-Routine-Generator/assets/67754468/50e2a27e-aaa5-4aab-8ba1-905b60570fc6)
+
+
 
 
 
