@@ -42,37 +42,39 @@ The agile methodology allowed for iterative development, fostering flexibility a
 - Deployment
 - Feedback
 
-# Requirements Gathering:
+## Requirements Gathering:
 - Collaborate with stakeholders including administrators, supervisors, and invigilators to identify key requirements for the automated invigilator assigning system.
 - Prioritize features based on user needs, scalability, and system performance.
 
-# Design the Requirements:
+## Design the Requirements:
 - Utilize Agile methodologies like User Stories and Feature Driven Development to translate requirements into actionable design elements.
 - Create a dynamic and user-friendly interface for administrators, clear task assignment workflows, and a robust database structure to store invigilator profiles and availability.
   
-# Construction/Iteration:
+## Construction/Iteration:
 - Adopt Agile Sprints to break down the development process into manageable iterations.
 - Implement core functionalities such as automated invigilator matching algorithms, dynamic scheduling, and a user-friendly dashboard.
 - Iteratively enhance the system based on continuous feedback and evolving requirements.
 
-# Testing/Quality Assurance:
+## Testing/Quality Assurance:
 - Implement a comprehensive testing strategy for the Automated Invigilator Assigning System.
 - Conduct unit testing, integration testing, and user acceptance testing (UAT) during each sprint.
 - Address and resolve any issues identified during testing promptly.
-# Deployment:
+## Deployment:
 
 - Utilize continuous integration and deployment (CI/CD) practices to ensure a smooth and efficient deployment process.
 - Roll out the system incrementally, providing administrators and users with access to new features as they are developed and tested.
 
-# Feedback:
+## Feedback:
 
 - Encourage users, including administrators and invigilators, to provide continuous feedback during and after the deployment.
 - Implement feedback loops within Agile Sprints to address user concerns and make necessary adjustments.
 - Leverage feedback to inform future iterations and improvements.
 
-# Purpose: 
+## Purpose: 
 
 The Automated Invigilator Assigning System using Agile methodologies aims to revolutionize the process of invigilator assignment for exams. By incorporating Agile principles, the system enhances adaptability, responsiveness, and collaboration throughout the development lifecycle. Its purpose is to provide an efficient, dynamic, and user-friendly platform that automates invigilator assignment, ensuring optimal exam supervision and responsiveness to changing requirements in real-time.
+
+
   
     
 
