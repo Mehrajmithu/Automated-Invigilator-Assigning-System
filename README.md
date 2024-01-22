@@ -9,3 +9,6 @@ The Automated Invigilator Assignment System is an intelligent platform designed 
 
 # Features 
 
+The Context diagram of Automated Invigilator Assignment System will give the main idea of the System Working.
+
+
