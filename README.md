@@ -31,6 +31,17 @@ Automated Invigilator Assignment System developed by agile model in 3 sprint
 
 The agile methodology allowed for iterative development, fostering flexibility and responsiveness to changing requirements. The collaborative nature of the sprints ensured continuous communication between the development team and stakeholders, resulting in the successful creation of the Automated Exam Routine Generator with a focus on efficiency, reliability, and user satisfaction.
 
+# Phases of Agile Model :
+
+### Following are the phases in the Agile model are as follows:
+
+- Requirements gathering
+- Design the requirements
+- Construction/ iteration
+- Testing/ Quality assurance
+- Deployment
+- Feedback 
+
 
 
 
