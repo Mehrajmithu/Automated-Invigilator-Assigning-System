@@ -80,6 +80,11 @@ The Automated Invigilator Assigning System using Agile methodologies aims to rev
 ### L-3 S-I
 ### Department: CSE
 
+# Submitted TO: 
+### Name: Pankaj Bhowmik
+### Lecturer
+### Department of CSE, HSTU
+
   
     
 
