@@ -20,8 +20,12 @@ Automated Invigilator Assignment System developed by agile model in 3 sprint
 ### Each sprint involved:
 
 1.Requirements gathering to capture user needs and constraints
+
 2.Requirements design to translate needs into functional specifications
+
 3.Testing/Quality assurance to ensure accuracy and reliability
+
 4.Review to evaluate progress and incorporate feedback
+
 
 
